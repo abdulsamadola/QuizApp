@@ -11,4 +11,6 @@
     <string name="q5">Just looking around your head true?</string>
     <string name="correct">Yes, you\'re correct! </string>
     <string name="wrong">No, you\'re wrong! </string>
+    <string name="guess_text">Guess</string>
+    <string name="enter_your_guess">Enter your guess</string>
 </resources>
